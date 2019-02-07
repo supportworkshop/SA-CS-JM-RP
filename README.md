@@ -1,7 +1,7 @@
-#Git Workshop
+# Git Workshop
 Brief Readme file explaining the general workflow aof a basic project in Github
 
-##Git commands and flow
+## Git commands and flow
 * git pull
 * git status
 * git add +something
@@ -14,7 +14,7 @@ Brief Readme file explaining the general workflow aof a basic project in Github
 
 
 
-##References
+## References
 MArkdown tutorial:
 https://guides.github.com/features/mastering-markdown/
 
